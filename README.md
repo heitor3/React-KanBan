@@ -3,5 +3,5 @@
 Created with CodeSandbox
 
 <div>
-  <img src="./assets/KanBan.png"/>
+  <img src="./src/assets" width="1200"/>
 </div>
